@@ -34,6 +34,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=fff" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=222" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=fff" /></a>
   <a href="#"
     ><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=fff"
@@ -44,6 +45,7 @@
   /></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /></a>
 </p>
 <hr />
 <p align="center">
