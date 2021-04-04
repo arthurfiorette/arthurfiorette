@@ -9,7 +9,7 @@
   <a href="https://github.com/ArthurFiorette?tab=repositories"><strong>Open Source Projects</strong></a
   >.
 </p>
-<p align="center">Practicing <strong>React JS</strong> and <strong>Redux JS</strong>.</p>
+<p align="center">Learning <strong>React</strong> and <strong>Redux</strong>.</p>
 <br />
 <p align="center">
   <img
