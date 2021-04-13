@@ -17,37 +17,6 @@
     src="https://github-readme-stats.vercel.app/api?username=ArthurFiorette&count_private=true&show_icons=true"
   /><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFiorette&layout=compact" />
 </p>
-<h6 align="center">Languages and Technologies</h6>
-<p align="center">
-  <a href="#"
-    ><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"
-  /></a>
-  <a href="#"
-    ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222"
-  /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML_5-E34F26?style=flat-square&logo=html5&logoColor=fff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS_3-1572B6?style=flat-square&logo=css3&logoColor=fff" /></a>
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=222" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=fff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=222" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=fff" /></a>
-  <a href="#"
-    ><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=fff"
-  /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" /></a>
-  <a href="#"
-    ><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"
-  /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /></a>
-</p>
-<hr />
 <p align="center">
   <a href="https://www.linkedin.com/in/arthurfiorette/"
     ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"
