@@ -45,7 +45,7 @@
   <a href="https://github.com/ArthurFiorette?tab=repositories">
     <strong>Open Source Projects</strong></a>.
   <br />
-  Learning <i>Web Development</i>.
+  Learning <i>web development</i>.
 </h6>
 <br />
 <br />
