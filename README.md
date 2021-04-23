@@ -46,8 +46,6 @@
   <br />
   Learning <i>web development</i>.
 </h6>
-<br />
-<br />
 <p align="center">
   <code>
     
