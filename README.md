@@ -1,14 +1,4 @@
-<p align="right">
-  <img
-    src="https://komarev.com/ghpvc/?username=arthurfiorette&style=flat-square&label=👀"
-  />
-</p>
-<h2 align="center">
-  <strong
-    >Hi there, I am
-    <a href="https://github.com/ArthurFiorette">Arthur Fiorette</a>! 👋</strong
-  ></h2>
-<h2 align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/arthurfiorette/"
     ><img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
@@ -45,14 +35,29 @@
       src="https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white"
       alt="Sponsor"
   /></a>
-</h2>
+</p>
+<br />
+<h2>
+  <strong>Hi there, I am <a href="https://github.com/ArthurFiorette">Arthur Fiorette</a>! 👋</strong>
+  <img align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&style=flat-square&label="/>
+</h2><h6>
+  Working on my
+  <a href="https://github.com/ArthurFiorette?tab=repositories">
+    <strong>Open Source Projects</strong></a>.
+  <br />
+  Learning <i>Web Development</i>.
+</h6>
+<br />
+<br />
 <br />
 <p align="center">
   <code>
-    <img src="https://metrics.lecoq.io/arthurfiorette" />
+    
+   <img src="https://metrics.lecoq.io/arthurfiorette" />
+    
   </code>
 </p>
-<br />
+
 <p align="center">
   <code>
     ▪▫▫ <a href="https://github.com/ArthurFiorette" target="_blank">»</a>
