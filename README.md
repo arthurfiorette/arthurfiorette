@@ -7,16 +7,8 @@
   <strong
     >Hi there, I am
     <a href="https://github.com/ArthurFiorette">Arthur Fiorette</a>! 👋</strong
-  >
-</h2>
-<p align="center">
-  Working on my
-  <a href="https://github.com/ArthurFiorette?tab=repositories"
-    ><strong>Open Source Projects</strong></a
-  >.
-</p>
-<br />
-<h1 align="center">
+  ></h2>
+<h2 align="center">
   <a href="https://www.linkedin.com/in/arthurfiorette/"
     ><img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
@@ -53,7 +45,7 @@
       src="https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white"
       alt="Sponsor"
   /></a>
-</h1>
+</h2>
 <br />
 <p align="center">
   <code>
