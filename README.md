@@ -49,7 +49,6 @@
 </h6>
 <br />
 <br />
-<br />
 <p align="center">
   <code>
     
@@ -57,7 +56,7 @@
     
   </code>
 </p>
-
+<br />
 <p align="center">
   <code>
     ▪▫▫ <a href="https://github.com/ArthurFiorette" target="_blank">»</a>
