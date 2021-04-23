@@ -30,15 +30,6 @@ jobs:
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          plugin_habits: yes
-          plugin_habits_from: 200  
-          plugin_habits_days: 14
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
           plugin_licenses: yes
           plugin_licenses_legal: yes
           plugin_licenses_ratio: yes
