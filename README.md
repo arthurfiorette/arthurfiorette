@@ -36,14 +36,13 @@
       alt="Sponsor"
   /></a>
 </p>
-<br />
 <h2>
   <strong>Hi there, I am <a href="https://github.com/ArthurFiorette">Arthur Fiorette</a>! 👋</strong>
-  <img align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&style=flat-square&label="/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&style=flat-square&label=Views"/>
 </h2><h6>
   Working on my
   <a href="https://github.com/ArthurFiorette?tab=repositories">
-    <strong>Open Source Projects</strong></a>.
+    Open Source</a> Projects.
   <br />
   Learning <i>web development</i>.
 </h6>
