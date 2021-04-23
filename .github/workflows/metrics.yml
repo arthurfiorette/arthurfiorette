@@ -2,9 +2,10 @@ name: Update Metrics
 on:
   schedule:
     - cron: '0 1 * * *'
+
   push:
   workflow_dispatch:
-  
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -17,11 +18,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          plugin_activity: yes
-          plugin_activity_days: 7
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_visibility: public
           plugin_followup: yes
           plugin_habits: yes
           plugin_habits_days: 14
