@@ -48,12 +48,12 @@
     src="https://komarev.com/ghpvc/?username=arthurfiorette&style=flat-square&label=Views"
   />
 </h2>
-<h5>
+<h4>
   Working on my
   <a href="https://github.com/ArthurFiorette?tab=repositories"> Open Source</a>
   Projects. <br />
   Learning <i>web development</i>.
-</h5>
+</h4>
 <p align="center">
   <code>
     <img src="github-metrics.svg" />
