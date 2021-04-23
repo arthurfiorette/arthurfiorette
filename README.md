@@ -51,7 +51,7 @@
 <p align="center">
   <code>
     
-   <img src="https://metrics.lecoq.io/arthurfiorette" />
+   <img src="github-metrics.svg" />
     
   </code>
 </p>
