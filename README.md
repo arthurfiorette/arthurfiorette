@@ -56,7 +56,7 @@
 </h4>
 <p align="center">
   <code>
-    <img src="github-metrics.svg" />
+    <img src="https://raw.githubusercontent.com/gist/ArthurFiorette/5d4fc4a95d67eb80a9dbea0dd6e85745/raw/c12d54646ea196131eb24edc5d19854ebf485bcd/github-metrics.svg" />
   </code>
 </p>
 <br />
