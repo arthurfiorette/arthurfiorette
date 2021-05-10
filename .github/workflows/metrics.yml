@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_gist: 5d4fc4a95d67eb80a9dbea0dd6e85745
+          output_action: 'gist'
           
           user: arthurfiorette
           template: classic
