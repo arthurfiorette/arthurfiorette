@@ -47,6 +47,6 @@
 </h4>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/gist/ArthurFiorette/5d4fc4a95d67eb80a9dbea0dd6e85745/raw/c12d54646ea196131eb24edc5d19854ebf485bcd/github-metrics.svg"
+    src="https://gist.githubusercontent.com/ArthurFiorette/5d4fc4a95d67eb80a9dbea0dd6e85745/raw/github-metrics.svg"
   />
 </p>
