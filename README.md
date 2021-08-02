@@ -38,11 +38,9 @@
   </strong>
 </h2>
 <h4>
-  Working on my
-  <a href="https://github.com/ArthurFiorette?tab=repositories">Open Source</a>
-  Projects.
+  Working at E&L Sistemas.
   <br />
-  Learning <i>web development</i>.
+  Learning <i>fullstack applications and networking</i>.
   <br />
 </h4>
 <p align="center">
