@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <pre>
-  <h1>Hi there 👋. I'm Arthur Fileti Fiorette!</h1>
+  <h1>Hi there 👋 I'm Arthur Fileti Fiorette!</h1>
   </pre>
   <br />
   <code
