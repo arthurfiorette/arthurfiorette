@@ -1,4 +1,5 @@
 <br />
+<br />
 <div align="center">
   <pre>
   <h1>Hi there 👋 I'm Arthur Fileti Fiorette!</h1>
@@ -36,3 +37,5 @@
     src="https://gist.githubusercontent.com/ArthurFiorette/5d4fc4a95d67eb80a9dbea0dd6e85745/raw/github-metrics.svg"
   />
 </p>
+
+<br />
