@@ -29,8 +29,6 @@
 
 #
 
-<br />
-
 <p align="center">
   <img
     src="https://gist.githubusercontent.com/ArthurFiorette/5d4fc4a95d67eb80a9dbea0dd6e85745/raw/github-metrics.svg"
