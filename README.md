@@ -1,7 +1,5 @@
 <h1 align="left">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&label=&style=flat-square&color=blueviolet" /></h1>
 
-<br />
-
 I'm a 16 years old brazilian programmer. I started coding in 2018, with Java, trying to program Minecraft plugins. Now i'm focused on full stack web development.
 
 ### 👨‍💻 Techs
