@@ -2,8 +2,7 @@
 
 <br />
 
-I'm a brazilian programmer with 16 years old. I started coding in 2018, with Java, to make
-Minecraft plugins. Now i'm focused on full stack web development.
+I'm a 16 years old brazilian programmer. I started coding in 2018, with Java, trying to program Minecraft plugins. Now i'm focused on full stack web development.
 
 ### 👨‍💻 Techs
 
