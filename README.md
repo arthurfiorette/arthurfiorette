@@ -1,6 +1,16 @@
 <h1 align="left">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&label=&style=flat-square&color=blueviolet" /></h1>
 
-I'm a 16 years old brazilian programmer. I started coding in 2018, with Java, trying to program Minecraft plugins. Now i'm focused on full stack web development.
+I'm a _16y_ brazilian programmer.
+
+Started programming somewhere in late 2018 with Java, while trying at my best to code some Minecraft plugins. 
+Nowadays i'm dedicated on full stack development.
+
+You probably find me at various pr's and issues around here or believing at OSS with my own projects.
+
+<br />
+<div align="center"><b>Doing what I like.</b></div>
+
+<br />
 
 ### 👨‍💻 Techs
 
@@ -35,6 +45,8 @@ If the stack defines the programmer, then here goes:
 ![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)
 [![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/arthurfiorette)
 
+<br />
+
 ### 🔎 Find me!
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/arthurfiorette)
@@ -42,3 +54,5 @@ If the stack defines the programmer, then here goes:
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://github@arthur.place)
 [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198850668121)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://steamcommunity.com/profiles/76561198850668121)
+
+<br />
