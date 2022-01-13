@@ -1,14 +1,17 @@
+<br />
+
 <h1 align="left">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&label=&style=flat-square&color=blueviolet" /></h1>
+
+<br />
+
+### 📔 About
 
 I'm a _16y_ brazilian programmer.
 
 Started programming somewhere in late 2018 with Java, while trying at my best to code some Minecraft plugins. 
 Nowadays i'm dedicated on full stack development.
 
-You probably find me at various pr's and issues around here or believing at OSS with my own projects.
-
-<br />
-<div align="center"><b>Doing what I like.</b></div>
+You'll probably find me on random PR's and issues around here. Also, i'm believing in OSS with my own open projects.
 
 <br />
 
@@ -28,7 +31,13 @@ If the stack defines the programmer, then here goes:
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring)
 
+![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![Maven](https://img.shields.io/badge/Maven-black?style=flat-square&logo=apache-maven&logoColor=C71A36)
+![Yarn](https://img.shields.io/badge/Yarn-black?style=flat-square&logo=yarn)
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=D90092)
+
+![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=nginx&logoColor=009639)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
@@ -52,7 +61,9 @@ If the stack defines the programmer, then here goes:
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/arthurfiorette)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/339896687466381312)
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://github@arthur.place)
+
 [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198850668121)
+[![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=reddit)](https://www.reddit.com/user/Hazork_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://steamcommunity.com/profiles/76561198850668121)
 
 <br />
