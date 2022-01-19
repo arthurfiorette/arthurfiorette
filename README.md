@@ -6,15 +6,13 @@
 
 ### 📔 About
 
-<pre align="center">
-  I am a 16 year old Brazilian programmer. Started programming somewhere in late 2018 with
-  Java, while trying my best to code some Minecraft plugins. Today I am dedicated to full
-  stack development.
-</pre>
-<pre align="center">
-  I'll be on PR and random issues around here. Also, I'm helping OSS with my own
-  <a href="https://github.com/arthurfiorette?tab=repositories">open projects</a>, come check it out!
-</pre>
+I am a 16 year old Brazilian programmer. Started programming somewhere in late 2018 with
+Java, while trying my best to code some Minecraft plugins. Today I am dedicated to full
+stack development.
+
+I'll be on PR and random issues around here. Also, I'm helping OSS with my own
+<a href="https://github.com/arthurfiorette?tab=repositories">open projects</a>, come check it out!
+
 
 ### 👨‍💻 Techs
 
