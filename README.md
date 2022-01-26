@@ -1,5 +1,3 @@
-<br />
-
 <h1 align="left">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&label=&style=flat-square&color=blueviolet" /></h1>
 
 <br />
@@ -64,5 +62,3 @@ You may also find me elsewhere, **_who knows_**?
 [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198850668121)
 [![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=reddit)](https://www.reddit.com/user/Hazork_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://steamcommunity.com/profiles/76561198850668121)
-
-<br />
