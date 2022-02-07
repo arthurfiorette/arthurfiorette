@@ -4,17 +4,15 @@
 
 ### 📔 About
 
-I am a 16 year old Brazilian programmer. Started programming somewhere in late 2018 with
-Java, while trying my best to code some Minecraft plugins. Today I am dedicated to full
-stack development.
+My name is Arthur Fileti Fiorette, i'm a software engineer based in Brazil 🇧🇷. I'm passionate about building software that improves the peoples lives. I'm a fan of the open source community and I'm always looking for new projects to contribute to.
 
-I'll be on PR and random issues around here. Also, I'm helping OSS with my own
-<a href="https://github.com/arthurfiorette?tab=repositories">open projects</a>, come check it out!
+I'm still 17, but i am dedicated to fullstack development. I started programming somewhere in late 2018 with Java, while trying at my best to code some Minecraft plugins, today I've developed entire SaaS applications, from side-projects to enterprise projects.
 
+I'll be on some random PR and issues around here. Also, I'm mantaining some <a href="https://github.com/arthurfiorette?tab=repositories">open projects</a>, come check it out!
 
 ### 👨‍💻 Techs
 
-If the stack defines the programmer, then here goes:
+If the stack defines the programmer, then here it goes:
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
