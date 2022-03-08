@@ -1,18 +1,18 @@
-<h1 align="left">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&label=&style=flat-square&color=blueviolet" /></h1>
+<h1 align="center">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&label=&style=flat-square&color=blueviolet" /></h1>
+
+<br />
+<br />
+<br />
+
+My name is Arthur Fileti Fiorette, i'm a software engineer based in Brazil 🇧🇷. I'm passionate about building software that improves the peoples lives. I'm a fan of the open source community and I always looks for new projects to contribute.
+
+I'm 17 and I'm dedicated to fullstack development. I started programming somewhere in late 2018 with Java, while trying at my best to code some Minecraft plugins, today I've developed entire SaaS applications, from side-projects to enterprise projects.
+
+I usually am at random PR and Issues around here. See ya!
 
 <br />
 
-### 📔 About
-
-My name is Arthur Fileti Fiorette, i'm a software engineer based in Brazil 🇧🇷. I'm passionate about building software that improves the peoples lives. I'm a fan of the open source community and I'm always looking for new projects to contribute to.
-
-I'm still 17, but i am dedicated to fullstack development. I started programming somewhere in late 2018 with Java, while trying at my best to code some Minecraft plugins, today I've developed entire SaaS applications, from side-projects to enterprise projects.
-
-I'll be on some random PR and issues around here. Also, I'm mantaining some <a href="https://github.com/arthurfiorette?tab=repositories">open projects</a>, come check it out!
-
-### 👨‍💻 Techs
-
-If the stack defines the programmer, then here it goes:
+_if the stack defines the programmer, here's mine_
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
@@ -49,10 +49,8 @@ If the stack defines the programmer, then here it goes:
 [![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/arthurfiorette)
 
 <br />
-
-### 🔎 Find me!
-
-You may also find me elsewhere, **_who knows_**?
+<br />
+<br />
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/arthurfiorette)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/339896687466381312)
