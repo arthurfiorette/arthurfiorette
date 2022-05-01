@@ -2,13 +2,12 @@
 
 <br />
 <br />
-<br />
 
-My name is Arthur Fileti Fiorette, i'm a software engineer based in Brazil 🇧🇷. I'm passionate about building software that improves the peoples lives. I'm a fan of the open source community and I always looks for new projects to contribute.
+My name is <i>Arthur Fileti Fiorette</i>, I am a software engineer based in Brazil 🇧🇷. I'm passionate about building software that improves the peoples lives. I'm a fan of the open source community and I always looks for new projects to contribute.
 
-I'm 17 and I'm dedicated to fullstack development. I started programming somewhere in late 2018 with Java, while trying at my best to code some Minecraft plugins, today I've developed entire SaaS applications, from side-projects to enterprise projects.
+I'm 17 and I'm dedicated to full stack development. I started programming somewhere in late 2018 with Java, while trying at my best to code some Minecraft plugins, today I've developed entire SaaS applications, from side-projects to enterprise projects.
 
-I usually am at random PR and Issues around here. See ya!
+You'll find me at random PR and Issues around here. <b>See ya!</b>
 
 <br />
 
