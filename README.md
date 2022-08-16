@@ -1,7 +1,6 @@
 <h1 align="center">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=arthurfiorette&label=&style=flat-square&color=blueviolet" /></h1>
 
 <br />
-<br />
 
 My name is <i>Arthur Fileti Fiorette</i>, I am a software engineer living in Brazil 🇧🇷. I'm passionate about building software that improves the peoples lives. I'm a fan of the open source community and I always looks for new projects to contribute.
 
@@ -44,7 +43,6 @@ You'll find me at random pull requests and issues around here. <b>See ya!</b>
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/arthurfiorette)
 [![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/arthurfiorette)</div>
 
-<br />
 <br />
 <br />
 
