@@ -12,6 +12,8 @@ You'll find me at random pull requests and issues around here. <b>See ya!</b>
 <br />
 <br />
 
+<div align="center">
+
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=E42C2E)
@@ -40,7 +42,7 @@ You'll find me at random pull requests and issues around here. <b>See ya!</b>
 <span title="I use brave, btw">
 ![Brave](https://img.shields.io/badge/Brave-black?style=flat-square&logo=brave) </span>
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/arthurfiorette)
-[![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/arthurfiorette)
+[![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/arthurfiorette)</div>
 
 <br />
 <br />
