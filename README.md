@@ -15,7 +15,7 @@ You'll find me at random pull requests and issues around here. <b>See ya!</b>
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=E42C2E)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=oracle&logoColor=E42C2E)
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=DD3516)
 ![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
