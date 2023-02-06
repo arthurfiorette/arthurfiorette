@@ -15,7 +15,7 @@ developed entire applications, from
 [typescript framework](https://github.com/kitajs) and my
 [own programming language](https://github.com/arthurfiorette/brainease).
 
-You may find me at random pull requests and issues around here. <b>See ya!</b>
+You may find me in random pull requests and issues around here. <b>See ya!</b>
 
 
 <br />
