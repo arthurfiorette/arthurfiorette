@@ -2,11 +2,21 @@
 
 <br />
 
-My name is <i>Arthur Fileti Fiorette</i>, I am a software engineer living in Brazil 🇧🇷. I'm passionate about building software that improves the peoples lives. I'm a fan of the open source community and I always looks for new projects to contribute.
+My name is <b>Arthur Fileti Fiorette</b>, I am a software engineer living in Brazil 🇧🇷.
+I'm passionate about the art of open sourcing, and how it connects everyone around the
+world and brings them to a better place. Aside from coding, I love mountain bike, counter
+strike, volleyball and to help begginers with code.
 
-I'm currently 17 yo and I'm dedicated to full stack development. I started programming somewhere in late 2018 with Java, while trying at my best to code some Minecraft plugins, today I've developed entire SaaS applications, from side-projects to enterprise projects.
+I'm currently 18 yo and I'm dedicated to full stack development. I started programming
+somewhere in late 2018 with Java, while trying at my best to code some
+[minecraft plugins](https://www.spigotmc.org/resources/my-souls-1-8-9.86749). Today I've
+developed entire applications, from
+[SaaS enterprise projects](https://arthur.place/resume) to a
+[typescript framework](https://github.com/kitajs) and my
+[own programming language](https://github.com/arthurfiorette/brainease).
 
-You'll find me at random pull requests and issues around here. <b>See ya!</b>
+You may find me at random pull requests and issues around here. <b>See ya!</b>
+
 
 <br />
 <br />
