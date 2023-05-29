@@ -15,10 +15,13 @@ developed entire applications, from
 [typescript framework](https://github.com/kitajs) and my
 [own programming language](https://github.com/arthurfiorette/brainease).
 
-You may find me in random pull requests and issues around here. <b>See ya!</b>
+Sometimes I like to write things about software, want to [check it out](https://arthur.place/posts)?
 
+- [The consequences of using State over Cache and its impact on data consistency.](https://arthur.place/implications-of-cache-or-state)
+- [How return await can slow down your code.](https://arthur.place/the-cost-of-return-await)
+   
+You may find me in random pull requests and issues around here... <b>See ya!</b>
 
-<br />
 <br />
 
 <div align="center">
