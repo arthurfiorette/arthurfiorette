@@ -5,7 +5,7 @@
 My name is <b>Arthur Fileti Fiorette</b>, I am a software engineer living in Brazil 🇧🇷.
 I'm passionate about the art of open sourcing, and how it connects everyone around the
 world and brings them to a better place. Aside from coding, I love mountain bike, counter
-strike, volleyball and to help begginers with code.
+strike, volleyball and to help beginners with code.
 
 I'm currently 18 yo and I'm dedicated to full stack development. I started programming
 somewhere in late 2018 with Java, while trying at my best to code some
