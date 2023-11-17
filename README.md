@@ -6,8 +6,10 @@ I'm dedicated to full-stack development. I started my coding journey in late 201
 
 <br />
 
-- [The consequences of using State over Cache and its impact on data consistency.](https://arthur.place/implications-of-cache-or-state) - 09/2022
-- [How return await can slow down your code](https://arthur.place/the-cost-of-return-await) - 03/2022
+> [!NOTE]
+> Sometimes I write about software:
+> - [The consequences of using State over Cache and its impact on data consistency.](https://arthur.place/implications-of-cache-or-state) - 09/2022
+> - [How return await can slow down your code](https://arthur.place/the-cost-of-return-await) - 03/2022
 
 <br />
 <br />
@@ -25,5 +27,3 @@ I'm dedicated to full-stack development. I started my coding journey in late 201
 
 <br />
 
-> [!TIP]
-> Optional information to help a user be more successful.
