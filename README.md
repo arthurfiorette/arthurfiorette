@@ -1,14 +1,8 @@
 <br />
 
-I'm a passionate software engineer from Brazil 🇧🇷. My love for open source projects
-connects people worldwide and drives us toward a better future. When I'm not coding,
-you'll find me enjoying mountain biking, playing Counter-Strike, volleyball, or helping
-beginners with coding.
+I'm a passionate software engineer from Brazil 🇧🇷. My enthusiasm for open-source projects brings people together globally and propels us toward a brighter future. When I'm not coding, you'll catch me indulging in mountain biking, playing Counter-Strike, volleyball, or assisting beginners with coding.
 
-I'm dedicated to full-stack development. I started my coding journey in late 2018 with
-Java, initially tinkering with Minecraft plugins. Since then, I've grown to develop
-various applications, including SaaS enterprise projects, a TypeScript framework, and even
-my own programming language.
+My focus is on full-stack development. I embarked on my coding journey in late 2018 with Java, initially experimenting with Minecraft plugins. Since then, I've expanded my skills to develop a range of applications, from SaaS enterprise projects to a TypeScript framework, and even my own programming language.
 
 <br />
 
