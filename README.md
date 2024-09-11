@@ -9,7 +9,6 @@ My focus is on full-stack development. I embarked on my coding journey in late 2
 > [!NOTE]
 > Sometimes I write about software:
 > - [The consequences of using State over Cache and its impact on data consistency.](https://arthur.place/implications-of-cache-or-state) - 09/2022
-> - [How return await can slow down your code.](https://arthur.place/the-cost-of-return-await) - 03/2022
 
 <br />
 <br />
