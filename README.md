@@ -1,7 +1,6 @@
 <br />
 <br />
 <br />
-<br />
 
 I'm a passionate software engineer from Brazil 🇧🇷. My love for open source projects connects people worldwide and drives us toward a better future. When I'm not coding, you'll find me enjoying mountain biking, playing Counter-Strike, volleyball, or helping beginners with coding.
 
@@ -13,7 +12,6 @@ I'm dedicated to full-stack development. I started my coding journey in late 201
   <a href="https://arthur.place">Read free tech articles in my website!</a>
 </div>
 
-<br />
 <br />
 <br />
 <br />
