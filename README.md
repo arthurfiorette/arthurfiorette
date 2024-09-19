@@ -14,7 +14,6 @@ I'm dedicated to full-stack development. I started my coding journey in late 201
 
 <br />
 <br />
-<br />
 
 <hr />
 <div align="center">
